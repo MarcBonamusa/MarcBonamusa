@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Marc! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola%20Que%20Hase)](https://git.io/typing-svg)
 
