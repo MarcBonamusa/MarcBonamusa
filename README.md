@@ -19,7 +19,7 @@
 
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marc.bonamusa.7e6@itb.cat)
-[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)]()
+[![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/MarcBonamusa)
 
 <!--
 **MarcBonamusa/MarcBonamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
