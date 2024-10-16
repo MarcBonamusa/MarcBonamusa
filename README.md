@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola%20Que%20Hase)](https://git.io/typing-svg)
 
 ##
-📧 Connect with me 📧
+# 📧 Connect with me 📧
 
 <!--
 **MarcBonamusa/MarcBonamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
