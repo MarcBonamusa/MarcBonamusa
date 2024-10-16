@@ -1,4 +1,4 @@
-## Hi there, I'm Marc! 👋
+# Hi there, I'm Marc! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20profile!)](https://git.io/typing-svg)
 
 I'm Marc Bonamusa, a passionate learner currently enrolled in the ITB (Institut Tecnologic de Barcelona), pursuing a degree in DAW (Desarrollo de Aplicaciones Web).
