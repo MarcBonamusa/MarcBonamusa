@@ -13,7 +13,7 @@
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 📧 Connect with me :card
+## 📧 Connect with me 📧
 
 - 📧 Email: [marc.bonamusa.7e6@itb.cat](mailto:marc.bonamusa.7e6@itb.cat)
 
