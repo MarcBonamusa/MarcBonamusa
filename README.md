@@ -15,7 +15,7 @@
 
 ## 📧 Connect with me 📧
 
-- ✉ Email: [marc.bonamusa.7e6@itb.cat](mailto:marc.bonamusa.7e6@itb.cat)
+- 📧 Email: [marc.bonamusa.7e6@itb.cat](mailto:marc.bonamusa.7e6@itb.cat)
 
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marc.bonamusa.7e6@itb.cat)
